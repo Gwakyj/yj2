@@ -23,13 +23,6 @@
 		#font {font-size: 2.5em; color: #472e20; }
 		#font2 {font-family: "Times New Roman", Times, San-serif;font-size: 1.5em; color: #472e20; line-height: 2.3}
 		#font3 {font-family: "Times New Roman", Times, San-serif;font-size: 1em; color: #472e20; line-height: 1.7}
-		.footer {
-  			position: fixed;
-   			left: 0;
-   			bottom: 0;
-   			width: 100%;
-   			color: #472e20;
-   			text-align: center;}
 		.clearfix {
     		overflow: auto;}
     	
@@ -51,7 +44,7 @@
 		<br><br><br><br><br><br>
 		<p><a href="https://www.femmefatale.paris/en/projects" a target="_new"><img src="ff.jpg" id="img1"></a>
 			<p id="float1">ff</p>
-			<p id="float2">어떤 사이트인지는 잘 모르겠으나 스크롤을 내리면서 폰트들에 적용된 애니메이션들이 재밌어 보이고 유니크 해보임.</p></p>
+			<p id="float2">어떤 사이트인지는 잘 모르겠으나 <br> 스크롤을 내리면서 폰트들에 적용된 애니메이션들이 재밌어 보이고 유니크 해보임.</p></p>
 		<br><br><br><br><br><br>
 		<p><a href="https://www.beoplay.com/landingpages/ss17#intro" a target="_new"><img src="bd.jpg" id="img2"></a>
 		<p id="float3">BeoPlay</p>
